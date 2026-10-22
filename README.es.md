@@ -11,7 +11,7 @@ Ingeniero Senior de Backend y Datos en Open Intelligence con más de 5 años con
 ## Proyectos
 
 - [text-to-sql-rag](https://github.com/andresaragon/text-to-sql-rag): asistente Text-to-SQL con RAG sobre el esquema (pgvector) y validación de seguridad SQL con AST (sqlglot); Python, FastAPI, PostgreSQL (licencia MIT).
-- [-job-autoapply-app](https://github.com/andresaragon/-job-autoapply-app): plataforma Next.js y Supabase con agregación de vacantes, IA híbrida (Ollama, Claude, Gemini) y webhooks con n8n y Telegram (TypeScript).
+- [job-autoapply](https://github.com/andresaragon/job-autoapply): plataforma Next.js y Supabase de postulación a empleos con agregador de vacantes, IA híbrida (Ollama, Claude, Gemini), autollenado de formularios ATS, extensión de Chrome y webhooks con n8n y Telegram (TypeScript, licencia MIT).
 - [mrgames-web](https://github.com/andresaragon/mrgames-web): tienda web de videojuegos y suscripciones de negocio propio con Next.js y Supabase, en producción: https://mrgames.com.co
 - [FinanzasIA](https://github.com/andresaragon/FinanzasIA): proyecto de finanzas personales con IA en TypeScript (licencia MIT).
 
