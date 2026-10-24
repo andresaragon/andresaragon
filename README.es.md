@@ -10,7 +10,7 @@ Ingeniero Senior de Backend y Datos en Open Intelligence con más de 5 años con
 
 ## Proyectos
 
-- [text-to-sql-rag](https://github.com/andresaragon/text-to-sql-rag): asistente Text-to-SQL con RAG sobre el esquema (pgvector) y validación de seguridad SQL con AST (sqlglot); Python, FastAPI, PostgreSQL (licencia MIT).
+- [text-to-sql-rag](https://github.com/andresaragon/text-to-sql-rag): asistente Text-to-SQL con RAG sobre el esquema (pgvector) y un firewall SQL con AST (sqlglot) para PostgreSQL y Oracle; Python, FastAPI (licencia MIT). Medido, no supuesto: [qué debe detectar un firewall para Oracle](https://github.com/andresaragon/text-to-sql-rag/blob/main/docs/articles/oracle-sql-firewall.es.md) y un [benchmark A/B de Postgres, Oracle y SQL transpilado](https://github.com/andresaragon/text-to-sql-rag/blob/main/docs/benchmarks/2026-10-23-ab.es.md).
 - [job-autoapply](https://github.com/andresaragon/job-autoapply): plataforma Next.js y Supabase de postulación a empleos con agregador de vacantes, IA híbrida (Ollama, Claude, Gemini), autollenado de formularios ATS, extensión de Chrome y webhooks con n8n y Telegram (TypeScript, licencia MIT).
 - [mrgames-web](https://github.com/andresaragon/mrgames-web): tienda web de videojuegos y suscripciones de negocio propio con Next.js y Supabase, en producción: https://mrgames.com.co
 - [FinanzasIA](https://github.com/andresaragon/FinanzasIA): proyecto de finanzas personales con IA en TypeScript (licencia MIT).
