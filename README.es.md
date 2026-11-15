@@ -8,12 +8,12 @@
 
 ## Sobre mí
 
-Ingeniero Senior de Backend y Datos con más de 5 años construyendo y optimizando sistemas PL/SQL y Oracle de misión crítica para automatización de cobro y negociación de deuda. Optimicé planes de ejecución, hints de consulta e índices compuestos para lograr reducciones sustanciales de latencia en procesos por lotes, y estandaricé modelos de migración e interfaces API para minimizar fallas de integración. Aplico esa experiencia en bases de datos a soluciones de IA aplicada como asistentes Text-to-SQL con RAG, pipelines de LLM y orquestación multi-agente con Claude Code. Vivo en Cali, Colombia, y me encuentro disponible para roles remotos internacionales como contratista o EOR.
+Ingeniero Senior de Backend y Datos en Open Intelligence con más de 5 años construyendo y optimizando sistemas PL/SQL y Oracle de misión crítica para automatización de cobro y negociación de deuda. Analicé y optimicé más de 70 planes de ejecución complejos, hints de consulta e índices compuestos en procesos por lotes, y estandaricé modelos de migración e interfaces API para minimizar fallas de integración. Aplico esa experiencia en bases de datos a soluciones de IA aplicada como asistentes Text-to-SQL con RAG, pipelines de LLM y orquestación multi-agente con Claude Code. Vivo en Cali, Colombia, y me encuentro disponible para roles remotos internacionales como contratista o EOR.
 
 ## Logros destacados
 
 - Más de 5 años en arquitectura de bases de datos empresariales y optimización de consultas con Oracle PL/SQL y PostgreSQL.
-- 1.085 pruebas automatizadas aprobadas en el pipeline insignia `text-to-sql-rag` (89 omitidas para contenedor opcional en vivo).
+- 1.085 pruebas automatizadas aprobadas (89 omitidas) en el pipeline insignia `text-to-sql-rag`.
 - Más de 245 casos de prueba de seguridad adversariales validados contra un cortafuegos semántico AST determinista.
 - Flujos de orquestación multiagente estructurados con el protocolo Maker-Checker y Orca ADE.
 

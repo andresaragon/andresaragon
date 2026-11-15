@@ -8,12 +8,12 @@
 
 ## About me
 
-Senior Backend & Data Engineer with 5+ years building and optimizing mission-critical PL/SQL and Oracle systems for payment collection automation and debt negotiation. Tuned complex execution plans, optimizer hints, and index structures to achieve substantial query latency reductions on batch workloads, and standardized migration models and API exchanges to minimize integration defects. I apply this database foundation to applied AI solutions, including Text-to-SQL assistants with RAG, LLM pipelines, and multi-agent orchestration with Claude Code. Based in Cali, Colombia, and available for international remote roles as a contractor or EOR.
+Senior Backend & Data Engineer at Open Intelligence with 5+ years building and optimizing mission-critical PL/SQL and Oracle systems for payment collection automation and debt negotiation. Analyzed and tuned 70+ complex execution plans, optimizer hints, and index structures on batch workloads, and standardized migration models and API exchanges to minimize integration defects. I apply this database foundation to applied AI solutions, including Text-to-SQL assistants with RAG, LLM pipelines, and multi-agent orchestration with Claude Code. Based in Cali, Colombia, and available for international remote roles as a contractor or EOR.
 
 ## Key highlights
 
 - 5+ years in enterprise database architecture and query optimization across Oracle PL/SQL and PostgreSQL.
-- 1,085 automated tests passing in the flagship `text-to-sql-rag` pipeline (89 skipped for optional live container).
+- 1,085 automated tests passing (89 skipped) in the flagship `text-to-sql-rag` pipeline.
 - 245+ adversarial security test cases validated against a deterministic AST semantic firewall.
 - Multi-agent orchestration workflows using the Maker-Checker protocol and Orca ADE.
 
